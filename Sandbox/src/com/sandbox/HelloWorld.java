@@ -8,7 +8,7 @@ package com.sandbox;
  */
 public class HelloWorld {
 	/**
-	 * This is the main method.
+	 * This is the main method - just prints a simple message.
 	 * 
 	 * @param args
 	 */
